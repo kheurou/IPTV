@@ -1,53 +1,443 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/CanalPlusCinema.fr.png", CANAL+ CINEMA FHD
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="http://images.primeplus.tv:8080/images/picons/fr/TF1.fr.png" group-title="FRANCE FHD | OTT",|FR| TF1 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/4
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1 +1 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/TF1.fr.png" group-title="FRANCE FHD | OTT",|FR| TF1 +1 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/8324
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France2.fr.png" group-title="FRANCE FHD | OTT",|FR| FRANCE 2 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/5
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FRANCE 3 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/6
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="|FR| CANAL+ FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/CanalPlus.fr.png" group-title="FRANCE FHD | OTT",|FR| CANAL+ FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/88
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="|FR| CANAL+ UHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/canaluhd2.png" group-title="FRANCE FHD | OTT",|FR| CANAL+ UHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/149733
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France5.fr.png" group-title="FRANCE FHD | OTT",|FR| FRANCE 5 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/8
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR| M6 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/M6.fr.png" group-title="FRANCE FHD | OTT",|FR| M6 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/4445
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="|FR| ARTE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/ARTE.fr.png" group-title="FRANCE FHD | OTT",|FR| ARTE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/16
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="|FR| C8 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/C8.fr.png" group-title="FRANCE FHD | OTT",|FR| C8 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/10
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="|FR| W9 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/W9.fr.png" group-title="FRANCE FHD | OTT",|FR| W9 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/11
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="|FR| TMC FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/TMC.fr.png" group-title="FRANCE FHD | OTT",|FR| TMC FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/12
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="|FR| TMC +1 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/TMC.fr.png" group-title="FRANCE FHD | OTT",|FR| TMC +1 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/8325
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="|FR| TFX FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/TFX.fr.png" group-title="FRANCE FHD | OTT",|FR| TFX FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/14
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="|FR| NRJ 12 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/NRJ12.fr.png" group-title="FRANCE FHD | OTT",|FR| NRJ 12 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/15
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="|FR| LCP FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/LaChaineParlementaire.fr.png" group-title="FRANCE FHD | OTT",|FR| LCP FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/12139
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France4.fr.png" group-title="FRANCE FHD | OTT",|FR| FRANCE 4 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/7
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="|FR| BFM TV FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/BFMTV.fr.png" group-title="FRANCE FHD | OTT",|FR| BFM TV FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/19
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="|FR| CNEWS FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/CNews.fr.png" group-title="FRANCE FHD | OTT",|FR| CNEWS FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/18
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="|FR| CSTAR FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/CStar.fr.png" group-title="FRANCE FHD | OTT",|FR| CSTAR FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/17
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="|FR| TF1 SERIES FILMS FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/TF1SeriesFilms.fr.png" group-title="FRANCE FHD | OTT",|FR| TF1 SERIES FILMS FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/13
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="|FR| L'EQUIPE 21 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/LEquipe21.fr.png" group-title="FRANCE FHD | OTT",|FR| L'EQUIPE 21 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/147
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="|FR| 6TER FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/6ter.fr.png" group-title="FRANCE FHD | OTT",|FR| 6TER FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/21
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="|FR| RMC STORY FHD" tvg-logo="https://static.iptv-epg.com/fr/RMCStory.fr.png" group-title="FRANCE FHD | OTT",|FR| RMC STORY FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/23
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="|FR| RMC DECOUVERTE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/RMCdecouverte.fr.png" group-title="FRANCE FHD | OTT",|FR| RMC DECOUVERTE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/112
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="|FR| CHERIE 25 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Cherie25.fr.png" group-title="FRANCE FHD | OTT",|FR| CHERIE 25 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/24
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="|FR| LCI FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/LCI.fr.png" group-title="FRANCE FHD | OTT",|FR| LCI FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/19738
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="|FR| FRANCE INFO FHD" tvg-logo="https://www.jesuites.com/wp-content/uploads/2018/05/logo-france-info-septembre-2016.jpg" group-title="FRANCE FHD | OTT",|FR| FRANCE INFO FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/19737
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="|FR| CANAL+ CINEMA FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/CanalPlusCinema.fr.png" group-title="FRANCE FHD | OTT",|FR| CANAL+ CINEMA FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/91
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/CanalPlusSport.fr.png", CANAL+ SPORT FHD
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="|FR| CANAL+ SPORT FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/CanalPlusSport.fr.png" group-title="FRANCE FHD | OTT",|FR| CANAL+ SPORT FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/2489
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/CanalplusSeries.fr.png", CANAL+ SERIES FHD
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="|FR| CANAL+ SERIES FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/CanalplusSeries.fr.png" group-title="FRANCE FHD | OTT",|FR| CANAL+ SERIES FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/93
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/CanalPlusFamily.fr.png", CANAL+ FAMILY FHD
+#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="|FR| CANAL+ FAMILY FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/CanalPlusFamily.fr.png" group-title="FRANCE FHD | OTT",|FR| CANAL+ FAMILY FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/92
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/CanalPlusDecale.fr.png", CANAL+ DECALE FHD
+#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="|FR| CANAL+ DECALE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/CanalPlusDecale.fr.png" group-title="FRANCE FHD | OTT",|FR| CANAL+ DECALE FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/90
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/CinePlusPremier.fr.png", CINE+ PREMIER FHD
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="|FR| CINE+ PREMIER FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/CinePlusPremier.fr.png" group-title="FRANCE FHD | OTT",|FR| CINE+ PREMIER FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/98
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/CinePlusFrisson.fr.png", CINE+ FRISSON FHD
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="|FR| CINE+ FRISSON FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/CinePlusFrisson.fr.png" group-title="FRANCE FHD | OTT",|FR| CINE+ FRISSON FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/95
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/CinePlusEmotion.fr.png", CINE+ EMOTION FHD
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="|FR| CINE+ EMOTION FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/CinePlusEmotion.fr.png" group-title="FRANCE FHD | OTT",|FR| CINE+ EMOTION FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/97
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/CinePlusFamiz.fr.png", CINE+ FAMIZ FHD
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="|FR| CINE+ FAMIZ FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/CinePlusFamiz.fr.png" group-title="FRANCE FHD | OTT",|FR| CINE+ FAMIZ FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/96
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/CinePlusClub.fr.png", CINE+ CLUB FHD
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="|FR| CINE+ CLUB FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/CinePlusClub.fr.png" group-title="FRANCE FHD | OTT",|FR| CINE+ CLUB FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/100
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/CinePlusClassic.fr.png", CINE+ CLASSIC FHD
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="|FR| CINE+ CLASSIC FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/CinePlusClassic.fr.png" group-title="FRANCE FHD | OTT",|FR| CINE+ CLASSIC FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/99
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/13Rue.fr.png", 13EME RUE FHD
+#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="|FR| OCS MAX FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/OCSMax.fr.png" group-title="FRANCE FHD | OTT",|FR| OCS MAX FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/102
+#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="|FR| OCS MAX UHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/OCSMax.fr.png" group-title="FRANCE FHD | OTT",|FR| OCS MAX UHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/171094
+#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="|FR| OCS CITY FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/OCSCity.fr.png" group-title="FRANCE FHD | OTT",|FR| OCS CITY FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/104
+#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="|FR| OCS CITY UHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/OCSCity.fr.png" group-title="FRANCE FHD | OTT",|FR| OCS CITY UHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/171124
+#EXTINF:-1 tvg-id="OCSChoc.fr" tvg-name="|FR| OCS CHOC FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/OCSChoc.fr.png" group-title="FRANCE FHD | OTT",|FR| OCS CHOC FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/109
+#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="|FR| OCS GEANTS FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/OCSGeants.fr.png" group-title="FRANCE FHD | OTT",|FR| OCS GEANTS FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/103
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="|FR| DISNEY+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/200px-Disney%2B_logo.svg.png" group-title="FRANCE FHD | OTT",|FR| DISNEY+ FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/163480
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="|FR| TCM CINEMA FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/TCM.fr.png" group-title="FRANCE FHD | OTT",|FR| TCM CINEMA FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/163
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/ParamountChannel.fr.png" group-title="FRANCE FHD | OTT",|FR| PARAMOUNT CHANNEL FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/12138
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PARAMOUNT DECALE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/ParamountChannel.fr.png" group-title="FRANCE FHD | OTT",|FR| PARAMOUNT DECALE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/12137
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="|FR| ACTION FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Action.fr.png" group-title="FRANCE FHD | OTT",|FR| ACTION FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/159
+#EXTINF:-1 tvg-id="AlticeStudio.fr" tvg-name="|FR| ALTICE STUDIO FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/AlticeStudio.fr.png" group-title="FRANCE FHD | OTT",|FR| ALTICE STUDIO FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/108
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="|FR| 13EME RUE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/13Rue.fr.png" group-title="FRANCE FHD | OTT",|FR| 13EME RUE FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/158
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/Syfy.fr.png", SYFY FHD
-http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/156
-#EXTINF:0 type="stream" channelId="-1" logo="https://novelastvclubafrique.files.wordpress.com/2018/02/chn43fb_693_20170918-1158461223.png?w=300&h=225", NOVELAS TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OLYMPIA TV FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/canalolympia.png" group-title="FRANCE FHD | OTT",|FR| OLYMPIA TV FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/135117
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="|FR| COMEDIE+ FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/ComediePlus.fr.png" group-title="FRANCE FHD | OTT",|FR| COMEDIE+ FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/107
+#EXTINF:-1 tvg-id="Polar.fr" tvg-name="|FR| POLAR+ FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Polar.fr.png" group-title="FRANCE FHD | OTT",|FR| POLAR+ FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/106
+#EXTINF:-1 tvg-id="WarnerTV.fr" tvg-name="|FR| WARNER TV FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/WarnerTV.fr.png" group-title="FRANCE FHD | OTT",|FR| WARNER TV FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/110
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="|FR| SERIE CLUB FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/serieclub.fr.png" group-title="FRANCE FHD | OTT",|FR| SERIE CLUB FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/157
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="|FR| MTV FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/MTV.fr.png" group-title="FRANCE FHD | OTT",|FR| MTV FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/154
+#EXTINF:-1 tvg-id="EEntertainment.fr" tvg-name="|FR| E! FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/EEntertainment.fr.png" group-title="FRANCE FHD | OTT",|FR| E! FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/53148
+#EXTINF:-1 tvg-id="NonStopPeople.fr" tvg-name="|FR| NON STOP PEOPLE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/NonStopPeople.fr.png" group-title="FRANCE FHD | OTT",|FR| NON STOP PEOPLE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/12135
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NOVELAS TV FHD" tvg-logo="https://novelastvclubafrique.files.wordpress.com/2018/02/chn43fb_693_20170918-1158461223.png?w=300&h=225" group-title="FRANCE FHD | OTT",|FR| NOVELAS TV FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/8326
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/InfosportPlus.fr.png", INFOSPORT+ FHD
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="|FR| MCM FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/MCM.fr.png" group-title="FRANCE FHD | OTT",|FR| MCM FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/53142
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="|FR| GAME ONE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/GameOne.fr.png" group-title="FRANCE FHD | OTT",|FR| GAME ONE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/8331
+#EXTINF:-1 tvg-id="JONE.fr" tvg-name="|FR| J-ONE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fullpicons/jonehd.png" group-title="FRANCE FHD | OTT",|FR| J-ONE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/8981
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="|FR| MANGAS FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Mangas.fr.png" group-title="FRANCE FHD | OTT",|FR| MANGAS FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/4442
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="|FR| AB1 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/AB1.fr.png" group-title="FRANCE FHD | OTT",|FR| AB1 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/2672
+#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name="|FR| TV BREIZH FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/TvBreizh.fr.png" group-title="FRANCE FHD | OTT",|FR| TV BREIZH FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/22
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="|FR| TÉVA FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Teva.fr.png" group-title="FRANCE FHD | OTT",|FR| TÉVA FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/25
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="|FR| PARIS PREMIERE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/ParisPremiere.fr.png" group-title="FRANCE FHD | OTT",|FR| PARIS PREMIERE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/12136
+#EXTINF:-1 tvg-id="RTL9.lu" tvg-name="|FR| RTL9 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/rtl99.fr.png" group-title="FRANCE FHD | OTT",|FR| RTL9 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/155
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="|FR| SYFY FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Syfy.fr.png" group-title="FRANCE FHD | OTT",|FR| SYFY FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/156
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="|FR| CRIME DISTRICT FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/CrimeDistrict.fr.png" group-title="FRANCE FHD | OTT",|FR| CRIME DISTRICT FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/118
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="|FR| BET FHD" tvg-logo="http://images.primeplus.tv/images/picons/fullpicons/logos/bet.png" group-title="FRANCE FHD | OTT",|FR| BET FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/161
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="|FR| TV5 MONDE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/TV5Monde.fr.png" group-title="FRANCE FHD | OTT",|FR| TV5 MONDE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/69662
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="|FR| COMEDY CENTRAL FHD" tvg-logo="http://images.primeplus.tv/images/picons/fullpicons/comedycentraln.png" group-title="FRANCE FHD | OTT",|FR| COMEDY CENTRAL FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/19735
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ES1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c2/ES1_Logo.png" group-title="FRANCE FHD | OTT",|FR| ES1 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/69665
+#EXTINF:-1 tvg-id="MyZen.nl" tvg-name="|FR| MY ZEN TV FHD" tvg-logo="http://images.primeplus.tv/images/picons/fullpicons/myzentv.png" group-title="FRANCE FHD | OTT",|FR| MY ZEN TV FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/8974
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="|FR| INFOSPORT+ FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/InfosportPlus.fr.png" group-title="FRANCE FHD | OTT",|FR| INFOSPORT+ FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/2587
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/PlanetePlus.fr.png", PLANETE+ FHD
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="|FR| EUROSPORT 1 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Eurosport1.fr.png" group-title="FRANCE FHD | OTT",|FR| EUROSPORT 1 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/141
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="|FR| EUROSPORT 2 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Eurosport2.fr.png" group-title="FRANCE FHD | OTT",|FR| EUROSPORT 2 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/142
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="|FR| BEIN SPORTS 1 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fullpicons/beinsports1.png" group-title="FRANCE FHD | OTT",|FR| BEIN SPORTS 1 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/133
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="|FR| BEIN SPORTS 2 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fullpicons/beinsports2hd.png" group-title="FRANCE FHD | OTT",|FR| BEIN SPORTS 2 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/146
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="|FR| BEIN SPORTS 3 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fullpicons/beinsports3hdfrance.png" group-title="FRANCE FHD | OTT",|FR| BEIN SPORTS 3 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/135
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="|FR| RMC SPORT 1 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/RMCSport1.fr.png" group-title="FRANCE FHD | OTT",|FR| RMC SPORT 1 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/136
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="|FR| RMC SPORT 1 UHD" tvg-logo="http://images.primeplus.tv/images/picons/fullpicons/rmcsport.png" group-title="FRANCE FHD | OTT",|FR| RMC SPORT 1 UHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/15249
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="|FR| RMC SPORT 2 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fullpicons/rmcsport.png" group-title="FRANCE FHD | OTT",|FR| RMC SPORT 2 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/82316
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="|FR| RMC SPORT 3 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fullpicons/rmcsport.png" group-title="FRANCE FHD | OTT",|FR| RMC SPORT 3 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/138
+#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="|FR| RMC SPORT 4 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fullpicons/rmcsport.png" group-title="FRANCE FHD | OTT",|FR| RMC SPORT 4 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/139
+#EXTINF:-1 tvg-id="Telefoot.fr" tvg-name="|FR| TELEFOOT STADIUM FHD" tvg-logo="https://storage.telefootlachaine.fr/img/stadiums/stadium00.300x300.webp" group-title="FRANCE FHD | OTT",|FR| TELEFOOT STADIUM FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/232398
+#EXTINF:-1 tvg-id="Telefoot.fr" tvg-name="|FR| TELEFOOT STADIUM UHD" tvg-logo="https://storage.telefootlachaine.fr/img/stadiums/stadium00.300x300.webp" group-title="FRANCE FHD | OTT",|FR| TELEFOOT STADIUM UHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/234142
+#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="|FR| OL TV FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/OLTV.fr.png" group-title="FRANCE FHD | OTT",|FR| OL TV FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/53143
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="|FR| AUTOMOTO LA CHAINE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/ABMoteurs.fr.png" group-title="FRANCE FHD | OTT",|FR| AUTOMOTO LA CHAINE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/50040
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MOTORSPORT TV FHD" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/10/Motorvision-TV-278x225.png?resize=278%2C225" group-title="FRANCE FHD | OTT",|FR| MOTORSPORT TV FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/69664
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="|FR| EQUIDIA FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Equidia.fr.png" group-title="FRANCE FHD | OTT",|FR| EQUIDIA FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/50042
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="|FR| GOLF+ FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/GolfPlus.fr.png" group-title="FRANCE FHD | OTT",|FR| GOLF+ FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/148
+#EXTINF:-1 tvg-id="Golf.fr" tvg-name="|FR| GOLF CHANNEL FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Golf.fr.png" group-title="FRANCE FHD | OTT",|FR| GOLF CHANNEL FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/149
+#EXTINF:-1 tvg-id="ExtremeSports.uk" tvg-name="|FR| EXTREME SPORTS FHD" tvg-logo="http://images.primeplus.tv/images/picons/fullpicons/extremesports.png" group-title="FRANCE FHD | OTT",|FR| EXTREME SPORTS FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/8329
+#EXTINF:-1 tvg-id="FootPlus24.fr" tvg-name="|FR| FOOT+ FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/FootPlus24.fr.png" group-title="FRANCE FHD | OTT",|FR| FOOT+ FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/145
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="|FR| NBA TV FHD" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="FRANCE FHD | OTT",|FR| NBA TV FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/26047
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SPORT EN FRANCE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Sport_en_France_Logo.png/320px-Sport_en_France_Logo.png" group-title="FRANCE FHD | OTT",|FR| SPORT EN FRANCE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/243279
+#EXTINF:-1 tvg-id="TelefootStadium1.fr" tvg-name="|FR| TELEFOOT STADIUM 1 FHD" tvg-logo="https://storage.telefootlachaine.fr/img/stadiums/stadium01.300x300.webp" group-title="FRANCE FHD | OTT",|FR| TELEFOOT STADIUM 1 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/234126
+#EXTINF:-1 tvg-id="TelefootStadium2.fr" tvg-name="|FR| TELEFOOT STADIUM 2 FHD" tvg-logo="https://storage.telefootlachaine.fr/img/stadiums/stadium02.300x300.webp" group-title="FRANCE FHD | OTT",|FR| TELEFOOT STADIUM 2 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/234127
+#EXTINF:-1 tvg-id="TelefootStadium3.fr" tvg-name="|FR| TELEFOOT STADIUM 3 FHD" tvg-logo="https://storage.telefootlachaine.fr/img/stadiums/stadium03.300x300.webp" group-title="FRANCE FHD | OTT",|FR| TELEFOOT STADIUM 3 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/234128
+#EXTINF:-1 tvg-id="TelefootStadium4.fr" tvg-name="|FR| TELEFOOT STADIUM 4 FHD" tvg-logo="https://storage.telefootlachaine.fr/img/stadiums/stadium04.300x300.webp" group-title="FRANCE FHD | OTT",|FR| TELEFOOT STADIUM 4 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/234129
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 5 FHD" tvg-logo="https://storage.telefootlachaine.fr/img/stadiums/stadium05.300x300.webp" group-title="FRANCE FHD | OTT",|FR| TELEFOOT STADIUM 5 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/234130
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 6 FHD" tvg-logo="https://storage.telefootlachaine.fr/img/stadiums/stadium06.300x300.webp" group-title="FRANCE FHD | OTT",|FR| TELEFOOT STADIUM 6 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/234131
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 7 FHD" tvg-logo="https://storage.telefootlachaine.fr/img/stadiums/stadium07.300x300.webp" group-title="FRANCE FHD | OTT",|FR| TELEFOOT STADIUM 7 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/234132
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 8 FHD" tvg-logo="https://storage.telefootlachaine.fr/img/stadiums/stadium08.300x300.webp" group-title="FRANCE FHD | OTT",|FR| TELEFOOT STADIUM 8 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/234133
+#EXTINF:-1 tvg-id="Bein4Max.fr" tvg-name="|FR| BEIN SPORTS MAX 4 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/Bein4Max.fr.png" group-title="FRANCE FHD | OTT",|FR| BEIN SPORTS MAX 4 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/84194
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS MAX 5 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/Bein5Max.fr.png" group-title="FRANCE FHD | OTT",|FR| BEIN SPORTS MAX 5 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/84193
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS MAX 6 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/Bein6Max.fr.png" group-title="FRANCE FHD | OTT",|FR| BEIN SPORTS MAX 6 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/84192
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS MAX 7 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/Bein7Max.fr.png" group-title="FRANCE FHD | OTT",|FR| BEIN SPORTS MAX 7 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/84191
+#EXTINF:-1 tvg-id="Bein8Max.fr" tvg-name="|FR| BEIN SPORTS MAX 8 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/Bein8Max.fr.png" group-title="FRANCE FHD | OTT",|FR| BEIN SPORTS MAX 8 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/84190
+#EXTINF:-1 tvg-id="Bein9Max.fr" tvg-name="|FR| BEIN SPORTS MAX 9 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/Bein9Max.fr.png" group-title="FRANCE FHD | OTT",|FR| BEIN SPORTS MAX 9 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/84189
+#EXTINF:-1 tvg-id="Bein10Max.fr" tvg-name="|FR| BEIN SPORTS MAX 10 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/Bein10Max.fr.png" group-title="FRANCE FHD | OTT",|FR| BEIN SPORTS MAX 10 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/84188
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="|FR| RMC SPORT LIVE 5 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/RSL.png" group-title="FRANCE FHD | OTT",|FR| RMC SPORT LIVE 5 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/15248
+#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="|FR| RMC SPORT LIVE 6 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/RSL.png" group-title="FRANCE FHD | OTT",|FR| RMC SPORT LIVE 6 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/15247
+#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="|FR| RMC SPORT LIVE 7 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/RSL.png" group-title="FRANCE FHD | OTT",|FR| RMC SPORT LIVE 7 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/15246
+#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="|FR| RMC SPORT LIVE 8 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/RSL.png" group-title="FRANCE FHD | OTT",|FR| RMC SPORT LIVE 8 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/15245
+#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="|FR| RMC SPORT LIVE 9 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/RSL.png" group-title="FRANCE FHD | OTT",|FR| RMC SPORT LIVE 9 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/15244
+#EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="|FR| RMC SPORT LIVE 10 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/RSL.png" group-title="FRANCE FHD | OTT",|FR| RMC SPORT LIVE 10 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/15243
+#EXTINF:-1 tvg-id="RMCSportLive11.fr" tvg-name="|FR| RMC SPORT LIVE 11 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/RSL.png" group-title="FRANCE FHD | OTT",|FR| RMC SPORT LIVE 11 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/15242
+#EXTINF:-1 tvg-id="RMCSportLive12.fr" tvg-name="|FR| RMC SPORT LIVE 12 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/RSL.png" group-title="FRANCE FHD | OTT",|FR| RMC SPORT LIVE 12 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/15241
+#EXTINF:-1 tvg-id="RMCSportLive13.fr" tvg-name="|FR| RMC SPORT LIVE 13 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/RSL.png" group-title="FRANCE FHD | OTT",|FR| RMC SPORT LIVE 13 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/15240
+#EXTINF:-1 tvg-id="RMCSportLive14.fr" tvg-name="|FR| RMC SPORT LIVE 14 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/RSL.png" group-title="FRANCE FHD | OTT",|FR| RMC SPORT LIVE 14 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/15239
+#EXTINF:-1 tvg-id="RMCSportLive15.fr" tvg-name="|FR| RMC SPORT LIVE 15 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/RSL.png" group-title="FRANCE FHD | OTT",|FR| RMC SPORT LIVE 15 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/15238
+#EXTINF:-1 tvg-id="RMCSportLive16.fr" tvg-name="|FR| RMC SPORT LIVE 16 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/RMCSportLive16.fr.png" group-title="FRANCE FHD | OTT",|FR| RMC SPORT LIVE 16 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/234118
+#EXTINF:-1 tvg-id="Multisports1.fr" tvg-name="|FR| MULTISPORTS 1 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/multisports.png" group-title="FRANCE FHD | OTT",|FR| MULTISPORTS 1 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/50039
+#EXTINF:-1 tvg-id="Multisports2.fr" tvg-name="|FR| MULTISPORTS 2 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/multisports.png" group-title="FRANCE FHD | OTT",|FR| MULTISPORTS 2 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/50038
+#EXTINF:-1 tvg-id="Multisports3.fr" tvg-name="|FR| MULTISPORTS 3 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/multisports.png" group-title="FRANCE FHD | OTT",|FR| MULTISPORTS 3 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/50037
+#EXTINF:-1 tvg-id="Multisports4.fr" tvg-name="|FR| MULTISPORTS 4 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/multisports.png" group-title="FRANCE FHD | OTT",|FR| MULTISPORTS 4 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/50036
+#EXTINF:-1 tvg-id="Multisports5.fr" tvg-name="|FR| MULTISPORTS 5 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/multisports.png" group-title="FRANCE FHD | OTT",|FR| MULTISPORTS 5 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/50035
+#EXTINF:-1 tvg-id="Multisports6.fr" tvg-name="|FR| MULTISPORTS 6 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/multisports.png" group-title="FRANCE FHD | OTT",|FR| MULTISPORTS 6 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/50034
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="|FR| PLANETE+ FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/PlanetePlus.fr.png" group-title="FRANCE FHD | OTT",|FR| PLANETE+ FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/115
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/PLANETEJustice.fr.png", PLANETE+ CI
+#EXTINF:-1 tvg-id="PlaneteJustice.fr" tvg-name="|FR| PLANETE+ CI FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/PLANETEJustice.fr.png" group-title="FRANCE FHD | OTT",|FR| PLANETE+ CI FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/116
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/PlaneteAction.fr.png", PLANETE+ A&E FHD
+#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="|FR| PLANETE+ A&E FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/PlaneteAction.fr.png" group-title="FRANCE FHD | OTT",|FR| PLANETE+ A&E FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/117
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/NatGeo.fr.png", NAT GEO FHD
+#EXTINF:-1 tvg-id="Viceland.fr" tvg-name="|FR| VICE TV FHD" tvg-logo="http://images.primeplus.tv/images/picons/fullpicons/viceland.png" group-title="FRANCE FHD | OTT",|FR| VICE TV FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/153
+#EXTINF:-1 tvg-id="Museum.fr" tvg-name="|FR| MUSEUM FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Museum.fr.png" group-title="FRANCE FHD | OTT",|FR| MUSEUM FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/8983
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="|FR| NAT GEO FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/NatGeo.fr.png" group-title="FRANCE FHD | OTT",|FR| NAT GEO FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/123
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/DiscoveryScience.fr.png", DISCOVERY SCIENCE FHD
+#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="|FR| NAT GEO WILD FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/NatGeoWild.fr.png" group-title="FRANCE FHD | OTT",|FR| NAT GEO WILD FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/124
+#EXTINF:-1 tvg-id="Voyage.fr" tvg-name="|FR| VOYAGE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Voyage.fr.png" group-title="FRANCE FHD | OTT",|FR| VOYAGE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/127
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="|FR| USHUAIA TV FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/UshuaiaTV.fr.png" group-title="FRANCE FHD | OTT",|FR| USHUAIA TV FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/128
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="|FR| HISTOIRE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Histoire.fr.png" group-title="FRANCE FHD | OTT",|FR| HISTOIRE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/53145
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="|FR| TOUTE L'HISTOIRE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/TouteHistoire.fr.png" group-title="FRANCE FHD | OTT",|FR| TOUTE L'HISTOIRE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/53144
+#EXTINF:-1 tvg-id="ScienceAndVie.fr" tvg-name="|FR| SCIENCE & VIE TV FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/ScienceAndVie.fr.png" group-title="FRANCE FHD | OTT",|FR| SCIENCE & VIE TV FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/125
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="|FR| ANIMAUX FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Animaux.fr.png" group-title="FRANCE FHD | OTT",|FR| ANIMAUX FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/131
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="|FR| TREK FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Trek.fr.png" group-title="FRANCE FHD | OTT",|FR| TREK FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/130
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="|FR| SEASONS FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Seasons.fr.png" group-title="FRANCE FHD | OTT",|FR| SEASONS FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/126
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="|FR| CHASSE & PÊCHE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/ChassePeche.fr.png" group-title="FRANCE FHD | OTT",|FR| CHASSE & PÊCHE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/12134
+#EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-name="|FR| 8 MONT-BLANC FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/TV8MontBlanc.fr.png" group-title="FRANCE FHD | OTT",|FR| 8 MONT-BLANC FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/8973
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="|FR| DISCOVERY CHANNEL FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/DiscoveryChannel.fr.png" group-title="FRANCE FHD | OTT",|FR| DISCOVERY CHANNEL FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/120
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="|FR| DISCOVERY SCIENCE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/DiscoveryScience.fr.png" group-title="FRANCE FHD | OTT",|FR| DISCOVERY SCIENCE FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/122
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/af/traceurban.png", TRACE URBAN FHD
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="|FR| DISCOVERY ID FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/DiscoveryInvestigation.fr.png" group-title="FRANCE FHD | OTT",|FR| DISCOVERY ID FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/121
+#EXTINF:-1 tvg-id="DiscoveryFamily.fr" tvg-name="|FR| DISCOVERY FAMILY FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/DiscoveryFamily.fr.png" group-title="FRANCE FHD | OTT",|FR| DISCOVERY FAMILY FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/119
+#EXTINF:-1 tvg-id="" tvg-name="|FR| 01 TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/90/Logo_01net.png" group-title="FRANCE FHD | OTT",|FR| 01 TV FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/133465
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="|FR| PIWI+ FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/PIWI.fr.png" group-title="FRANCE FHD | OTT",|FR| PIWI+ FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/179
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="|FR| DISNEY JUNIOR FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/DisneyJunior.fr.png" group-title="FRANCE FHD | OTT",|FR| DISNEY JUNIOR FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/183
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="|FR| NICKELODEON JR FHD" tvg-logo="http://images.primeplus.tv/images/picons/fullpicons/nickelodeonjr.png" group-title="FRANCE FHD | OTT",|FR| NICKELODEON JR FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/12132
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="|FR| TIJI FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Tiji.fr.png" group-title="FRANCE FHD | OTT",|FR| TIJI FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/177
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="|FR| BOOMERANG FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Boomerang.fr.png" group-title="FRANCE FHD | OTT",|FR| BOOMERANG FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/178
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="|FR| CARTOON NETWORK FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/CartoonNetwork.fr.png" group-title="FRANCE FHD | OTT",|FR| CARTOON NETWORK FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/173
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="|FR| NICKELODEON FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Nickelodeon.fr.png" group-title="FRANCE FHD | OTT",|FR| NICKELODEON FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/8332
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NICKELODEON +1 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fullpicons/nickplus1.png" group-title="FRANCE FHD | OTT",|FR| NICKELODEON +1 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/8982
+#EXTINF:-1 tvg-id="TeleToonPlus.fr" tvg-name="|FR| TELETOON+ FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/TeleToonPlus.fr.png" group-title="FRANCE FHD | OTT",|FR| TELETOON+ FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/8328
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELETOON +1 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/TeleToonPlus.fr.png" group-title="FRANCE FHD | OTT",|FR| TELETOON +1 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/12131
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="|FR| CANAL J FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/CanalJ.fr.png" group-title="FRANCE FHD | OTT",|FR| CANAL J FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/181
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="|FR| BOING FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Boing.fr.png" group-title="FRANCE FHD | OTT",|FR| BOING FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/180
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="|FR| TOONAMI FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Toonami.fr.png" group-title="FRANCE FHD | OTT",|FR| TOONAMI FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/174
+#EXTINF:-1 tvg-id="Nickelodeon4Teen.fr" tvg-name="|FR| NICKELODEON TEEN FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Nickelodeon4Teen.fr.png" group-title="FRANCE FHD | OTT",|FR| NICKELODEON TEEN FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/8333
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="|FR| DISNEY CHANNEL FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/DisneyChannel.fr.png" group-title="FRANCE FHD | OTT",|FR| DISNEY CHANNEL FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/185
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISNEY CHANNEL +1 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/DisneyChannel.fr.png" group-title="FRANCE FHD | OTT",|FR| DISNEY CHANNEL +1 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/12133
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="|FR| GULLI FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/Gulli.fr.png" group-title="FRANCE FHD | OTT",|FR| GULLI FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/172
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CLIQUE TV FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/cliquetv.png" group-title="FRANCE FHD | OTT",|FR| CLIQUE TV FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/25130
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OKLM TV FHD" tvg-logo="https://3.bp.blogspot.com/-C-F7uToM9xk/VwJe6dSDhuI/AAAAAAABE7k/23djQkAlYYoH6ahHVpKPTutxSUOMWRyPQ/w1200-h630-p-k-no-nu/OKLM-TV.jpg" group-title="FRANCE FHD | OTT",|FR| OKLM TV FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/12128
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="|FR| CSTAR HITS FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/cstarhits.png" group-title="FRANCE FHD | OTT",|FR| CSTAR HITS FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/14308
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="|FR| MTV HITS FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/MTV.fr.png" group-title="FRANCE FHD | OTT",|FR| MTV HITS FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/165
+#EXTINF:-1 tvg-id="M6Music.fr" tvg-name="|FR| M6 MUSIC FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/M6Music.fr.png" group-title="FRANCE FHD | OTT",|FR| M6 MUSIC FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/12129
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="|FR| NRJ HITS FHD" tvg-logo="https://static.iptv-epg.com/fr/NRJHits.fr.png" group-title="FRANCE FHD | OTT",|FR| NRJ HITS FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/12126
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="|FR| TRACE URBAN FHD" tvg-logo="http://images.primeplus.tv/images/picons/af/traceurban.png" group-title="FRANCE FHD | OTT",|FR| TRACE URBAN FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/44068
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fulli/tracelatina.png", TRACE LATINA FHD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TRACE LATINA FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/tracelatina.png" group-title="FRANCE FHD | OTT",|FR| TRACE LATINA FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/98308
-#EXTINF:0 type="stream" channelId="3445" logo="http://images.primeplus.tv/images/picons/fulli/TraceTocapt.png", TRACE TOCA
-http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/69390
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fulli/tracefrnaija.png", TRACE NAIJA HD
-http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/7192
-#EXTINF:0 type="stream" channelId="3482" logo="http://images.primeplus.tv/images/picons/fulli/CNN.us.png", CNN HD
-http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/28235
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/61MSiq9.png", FRANCE 24
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="|FR| RFM TV FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/RFMTV.fr.png" group-title="FRANCE FHD | OTT",|FR| RFM TV FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/12127
+#EXTINF:-1 tvg-id="Melody.fr" tvg-name="|FR| MELODY FHD" tvg-logo="http://images.primeplus.tv/images/picons/fullpicons/melody.png" group-title="FRANCE FHD | OTT",|FR| MELODY FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/12835
+#EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="|FR| MEZZO LIVE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/MezzoLive.fr.png" group-title="FRANCE FHD | OTT",|FR| MEZZO LIVE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/169
+#EXTINF:-1 tvg-id="StingrayDJazz.nl" tvg-name="|FR| DJAZZ FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/StingrayDJazz.fr.png" group-title="FRANCE FHD | OTT",|FR| DJAZZ FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/53141
+#EXTINF:-1 tvg-id="StingrayBrava.nl" tvg-name="|FR| BRAVA FHD" tvg-logo="https://static.iptv-epg.com/fr/BravaHD.fr.png" group-title="FRANCE FHD | OTT",|FR| BRAVA FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/14304
+#EXTINF:-1 tvg-id="MCMtop.fr" tvg-name="|FR| MCM TOP FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/MCMtop.fr.png" group-title="FRANCE FHD | OTT",|FR| MCM TOP FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168
+#EXTINF:-1 tvg-id="VH1.it" tvg-name="|FR| VH1 FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/VH1.png" group-title="FRANCE FHD | OTT",|FR| VH1 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/146555
+#EXTINF:-1 tvg-id="VH1Classic.de" tvg-name="|FR| VH1 CLASSIC FHD" tvg-logo="http://images.primeplus.tv/images/picons/fulli/VH1Classic.de.png" group-title="FRANCE FHD | OTT",|FR| VH1 CLASSIC FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/146556
+#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="|FR| LA CHAINE METEO FHD" tvg-logo="http://images.primeplus.tv/images/picons/fullpicons/lachainemeteohd.png" group-title="FRANCE FHD | OTT",|FR| LA CHAINE METEO FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/19739
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="|FR| BFM BUSINESS FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/BFMBusiness.fr.png" group-title="FRANCE FHD | OTT",|FR| BFM BUSINESS FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/20
+#EXTINF:-1 tvg-id="" tvg-name="|FR| I24 NEWS FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/i24.png" group-title="FRANCE FHD | OTT",|FR| I24 NEWS FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/86
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="|FR| BFM PARIS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Imagebfmparis.jpg/170px-Imagebfmparis.jpg" group-title="FRANCE FHD | OTT",|FR| BFM PARIS FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/12156
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BFM LYON FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/bfmlyon.fr.png" group-title="FRANCE FHD | OTT",|FR| BFM LYON FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/135115
+#EXTINF:-1 tvg-id="IDF1.fr" tvg-name="|FR| IDF1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a6/IDF1_logo_2017.png" group-title="FRANCE FHD | OTT",|FR| IDF1 FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/12141
+#EXTINF:-1 tvg-id="Weo.fr" tvg-name="|FR| WEO FHD" tvg-logo="https://static.iptv-epg.com/fr/Weo.fr.png" group-title="FRANCE FHD | OTT",|FR| WEO FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/135116
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BFM LITTORAL FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/BFMTV.fr.png" group-title="FRANCE FHD | OTT",|FR| BFM LITTORAL FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/143216
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 PARIS FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 PARIS FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/148276
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 MARSEILLE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 MARSEILLE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/148278
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 LYON FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 LYON FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168018
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 NICE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 NICE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/148277
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 LILLE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 LILLE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168004
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 BORDEAUX FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 BORDEAUX FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168012
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 MONTPELLIER FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 MONTPELLIER FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168022
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 CORSE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 CORSE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/148279
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 TOULOUSE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 TOULOUSE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168009
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 NOA FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 NOA FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/148291
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 AMIENS FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 AMIENS FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168008
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 BESANÇON FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 BESANÇON FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168011
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 CAEN FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 CAEN FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168013
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 CLERMONT FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 CLERMONT FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168014
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 DIJON FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 DIJON FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168015
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 STRASBOURG FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 STRASBOURG FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168007
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 GRENOBLE FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 GRENOBLE FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168016
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 RENNES FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 RENNES FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168021
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 NANCY FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 NANCY FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168005
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 NANTES FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 NANTES FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168019
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 ORLEANS FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 ORLEANS FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168020
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 LIMOGES FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 LIMOGES FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168017
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 REIMS FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 REIMS FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168006
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 ROUEN FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 ROUEN FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168023
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FR3 POITIERS FHD" tvg-logo="http://images.primeplus.tv/images/picons/fr/France3.fr.png" group-title="FRANCE FHD | OTT",|FR| FR3 POITIERS FHD
+http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/168010
