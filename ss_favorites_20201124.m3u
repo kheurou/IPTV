@@ -25,8 +25,6 @@ http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/99
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/158
 #EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/Syfy.fr.png", SYFY FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/156
-#EXTINF:-1 tvg-id="" tvg-name="|AF| ZEE MAGIC" tvg-logo="http://www.zeemagic.tv/wp-content/themes/zeemagic/images/logo_new_v1.png",| ZEE MAGIC
-http://opn-pm.com:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/110843
 #EXTINF:0 type="stream" channelId="-1" logo="https://novelastvclubafrique.files.wordpress.com/2018/02/chn43fb_693_20170918-1158461223.png?w=300&h=225", NOVELAS TV FHD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/8326
 #EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fr/InfosportPlus.fr.png", INFOSPORT+ FHD
@@ -49,7 +47,5 @@ http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/98308
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/69390
 #EXTINF:0 type="stream" channelId="-1" logo="http://images.primeplus.tv/images/picons/fulli/tracefrnaija.png", TRACE NAIJA HD
 http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/7192
-#EXTINF:0 type="stream" channelId="3482" logo="http://images.primeplus.tv/images/picons/fulli/CNN.us.png", CNN HD
-http://primeplus.tv:8080/NRS1xcdPsQOXMSUG/WQBzQnJsHfGmMM89/28235
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/61MSiq9.png", FRANCE 24
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
